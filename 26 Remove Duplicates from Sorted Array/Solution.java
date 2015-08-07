@@ -1,5 +1,3 @@
-package com.zhou.remove_duplicates_from_sorted_array;
-
 //import java.util.Stack;
 
 public class Solution {

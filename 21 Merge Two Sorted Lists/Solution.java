@@ -1,5 +1,3 @@
-package com.zhou.merge_teo_sorted_lists;
-
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
     	if(l1 == null)return l2;

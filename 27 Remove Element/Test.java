@@ -1,5 +1,3 @@
-package com.zhou.remove_element;
-
 public class Test {
 	public static void main(String[] args) {
 		int[] nums = {1,4,5};

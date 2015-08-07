@@ -1,5 +1,3 @@
-package com.zhou.remove_element;
-
 public class Solution {
     public int removeElement(int[] nums, int val) {
 		int count = 0;

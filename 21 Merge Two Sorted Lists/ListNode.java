@@ -1,5 +1,3 @@
-package com.zhou.merge_teo_sorted_lists;
-
 public class ListNode {
 	int val;
 	ListNode next;
